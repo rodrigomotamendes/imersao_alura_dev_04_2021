@@ -6,7 +6,7 @@
 
 <h2>🚀 Descrição</h2>
 
-<p> Aplicação realizada na Imersão <a href='https://www.alura.com.br/' target="_blank" rel="nofollow">Alura</a> Dev, realizada entre os dias de 22/03/21 a 02/04/21, onde foram realizados 10 dias de aulas gratuitas de programação. O evento foi realizado para iniciantes em programação, onde utilizamos a linguagen Javascript para a criação dos projetos.</p>
+<p> Aplicação realizada na Imersão <a href='https://www.alura.com.br/' target="_blank" rel="nofollow">Alura</a> Dev, realizada entre os dias de 22/03/21 a 02/04/21, onde foram realizados 10 dias de aulas gratuitas de programação. O evento foi realizado para iniciantes em programação, onde utilizamos a linguagem Javascript para a criação dos projetos.</p>
 
 <h2>🛠 Tecnologias</h2>
 
